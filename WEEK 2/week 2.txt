@@ -1,0 +1,16 @@
+Python 3.14.8 (tags/v3.14.8:8e6e75d, Sep 30 2026, 18:19:33) [MSC v.1944 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+>>> length = 12
+>>> 
+============================ RESTART: Shell ============================
+>>> length = input( "input the length of the rectangle: ")
+input the length of the rectangle: 
+= RESTART: C:/Users/HP-PC/Desktop/COS 101_ PRACTICALS/WEEK 2/rectangle_calculator.py
+input the length of the rectangle: 7
+ Input the width of the rectangle:5
+Area: 35.0 square metres
+>>> 
+= RESTART: C:/Users/HP-PC/Desktop/COS 101_ PRACTICALS/WEEK 2/rectangle_calculator.py
+input the length of the rectangle: 78
+ Input the width of the rectangle:6
+Area: 468.0 square metres
